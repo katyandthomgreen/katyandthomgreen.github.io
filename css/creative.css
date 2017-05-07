@@ -16,6 +16,10 @@ h3 {
     font-weight: bolder;
 }
 
+#page-top > aside > div > div > img {
+    max-height: 150px;;
+}
+
 #schedule {
     text-align: center;
     font-family: 'Amatic SC', cursive;

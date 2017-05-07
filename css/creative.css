@@ -20,6 +20,12 @@ h3 {
     max-height: 150px;;
 }
 
+@media screen and (max-width:320px) {
+    #page-top > aside > div > div > img {
+    max-height: 125px;
+    }
+}
+
 #schedule {
     text-align: center;
     font-family: 'Amatic SC', cursive;
